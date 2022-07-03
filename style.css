@@ -1,0 +1,175 @@
+*{  
+  margin: 0;  
+  padding: 0;  
+}  
+ body{  
+position: absolute;  
+width: 900px;  
+height: 500px;  
+left: 0px;  
+top: 0px;  
+background: #001857;  
+}  
+.container {  
+  width: 100%;  
+  height: 1024px;  
+  background-color: rgb(1, 14, 58);  
+position: fixed;  
+z-index: -2;  
+top: 0;  
+}  
+.dd{  
+position: absolute;  
+left: 1200px;  
+top: 20px ; 
+}  
+.uu{  
+  position: absolute; 
+  left: 30px;  
+}  
+.ii{  
+  position: absolute;  
+  z-index: -1;  
+  left: 300px;  
+  top: 390px;  
+  
+}  
+.qq{  
+position: absolute;  
+width: 717.65px;  
+height: 510.89px;  
+left: 252px;  
+top: 320.39px;  
+transform: rotate(325.87deg);  
+}  
+.pp{  
+  width: 100%;  
+  height: 50px;  
+  color: white;  
+}  
+.ww:hover{  
+  color: red;  
+}  
+.ee:hover{  
+  color: red;  
+}  
+.rr:hover{  
+  color: red;  
+}  
+.tt:hover{  
+  color: red;  
+}  
+.yy:hover{  
+  color: red;  
+}  
+.ww{  
+  margin-left: 500px;  
+  padding: 10px;  
+  float: left;  
+}  
+.ee{  
+  padding: 10px;  
+  float: left;  
+}  
+.rr{  
+  padding: 10px;  
+  float: left;  
+}  
+.tt{  
+  padding: 10px;  
+  float: left;  
+}  
+.yy{  
+  padding: 10px;  
+  float: left;  
+}  
+.kk{  
+position: absolute;  
+width: 440px;  
+height: 621px;  
+top: 200px;  
+color: white;  
+font-size: 80px;  
+}  
+.ll{  
+  position: absolute;  
+width: 440px;  
+height: 621px;  
+top: 285px;  
+color: white;  
+font-size: 80px;  
+}  
+.jj{  
+  position: absolute;  
+  width: 440px;  
+  height: 3px;  
+  top: 370px;  
+  color: white;  
+  font-size: 80px;  
+  } 
+.hh{ 
+  margin:25px; 
+} 
+.vv{ 
+position: absolute; 
+width: 535.46px; 
+height: 573.24px; 
+left: 650.64px; 
+top: 230px; 
+} 
+.bb{ 
+ 
+  position: absolute; 
+  width: 252px; 
+  height: 254px; 
+  left: -1px; 
+  top: 194px; 
+   
+  background: url(image.png); 
+} 
+.zz{ 
+  position: absolute; 
+width: 959px; 
+height: 334px; 
+left: 800.26px; 
+top: 300.44px; 
+ 
+font-family: 'Rubik'; 
+font-style: normal; 
+font-weight: 500; 
+font-size: 300px; 
+line-height: 356px; 
+display: flex; 
+align-items: center; 
+text-align: center; 
+ 
+color: rgba(0, 0, 0, 0.6); 
+ 
+transform: rotate(-90.08deg); 
+} 
+.xx{ 
+  position: absolute;  
+  width: 440px;  
+  height: 3px;  
+  left: 60px; 
+  top: 500px;  
+  color: blue;  
+ 
+  } 
+  .cc{ 
+    color:rgb(0, 255, 0); 
+    width: 30px; 
+    height: 30px; 
+    margin-left: 700px; 
+    margin-top: 800px; 
+    background-color: white; 
+    border-radius: 30%; 
+    } 
+    .cc a{ 
+      display: flex; 
+      justify-content: center; 
+      align-items: center; 
+    } 
+    .cc:hover{ 
+      background-color: red; 
+    }
