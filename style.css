@@ -4,15 +4,13 @@
 }  
  body{  
 position: absolute;  
-width: 900px;  
-height: 500px;  
-left: 0px;  
-top: 0px;  
+width: 80%;  
+height: 50%;    
 background: #001857;  
 }  
 .container {  
   width: 100%;  
-  height: 1024px;  
+  height: 100%;  
   background-color: rgb(1, 14, 58);  
 position: fixed;  
 z-index: -2;  
@@ -20,31 +18,30 @@ top: 0;
 }  
 .dd{  
 position: absolute;  
-left: 1200px;  
-top: 20px ; 
+left: 100%;  
+top: 5% ; 
 }  
 .uu{  
   position: absolute; 
-  left: 30px;  
+  left: 5%;  
 }  
 .ii{  
   position: absolute;  
   z-index: -1;  
-  left: 300px;  
-  top: 390px;  
-  
+  left: 35%;  
+  top: 55vh;  
 }  
 .qq{  
 position: absolute;  
-width: 717.65px;  
-height: 510.89px;  
-left: 252px;  
-top: 320.39px;  
-transform: rotate(325.87deg);  
+width: 85%;  
+height: 170%;  
+left: 20vh;  
+top: 40vh;  
+transform: rotate(-10deg);  
 }  
 .pp{  
   width: 100%;  
-  height: 50px;  
+  height: 3%;  
   color: white;  
 }  
 .ww:hover{  
@@ -63,113 +60,94 @@ transform: rotate(325.87deg);
   color: red;  
 }  
 .ww{  
-  margin-left: 500px;  
+  position: relative;  
+  left: 50vh;
   padding: 10px;  
   float: left;  
 }  
-.ee{  
+.ee{ 
+  position: relative;  
+  left: 50vh; 
   padding: 10px;  
   float: left;  
 }  
-.rr{  
+.rr{ 
+  position: relative;  
+  left: 50vh; 
   padding: 10px;  
   float: left;  
 }  
-.tt{  
+.tt{ 
+  position: relative;  
+  left: 50vh; 
   padding: 10px;  
   float: left;  
 }  
-.yy{  
+.yy{ 
+  position: relative;  
+  left: 50vh; 
   padding: 10px;  
   float: left;  
 }  
-.kk{  
+.kk{ 
 position: absolute;  
-width: 440px;  
-height: 621px;  
-top: 200px;  
+width: 20%;  
+height: 40%;  
+top: 62%;  
 color: white;  
 font-size: 80px;  
 }  
 .ll{  
   position: absolute;  
-width: 440px;  
-height: 621px;  
-top: 285px;  
+width: 20%;  
+height: 50%;  
+top: 86%;  
 color: white;  
 font-size: 80px;  
 }  
 .jj{  
   position: absolute;  
-  width: 440px;  
-  height: 3px;  
-  top: 370px;  
+  width: 20%;  
+  height: 40%;  
+  top: 110%;  
   color: white;  
   font-size: 80px;  
   } 
 .hh{ 
-  margin:25px; 
+  margin:3%; 
 } 
 .vv{ 
 position: absolute; 
-width: 535.46px; 
-height: 573.24px; 
-left: 650.64px; 
-top: 230px; 
+width: 60%; 
+height: 180%; 
+left: 95vh; 
+top: 33vh; 
 } 
 .bb{ 
- 
   position: absolute; 
-  width: 252px; 
-  height: 254px; 
+  width: 25%; 
+  height: 72%; 
   left: -1px; 
-  top: 194px; 
-   
-  background: url(image.png); 
+  top: 60%; 
 } 
 .zz{ 
   position: absolute; 
-width: 959px; 
-height: 334px; 
-left: 800.26px; 
-top: 300.44px; 
- 
-font-family: 'Rubik'; 
-font-style: normal; 
+width: 70%; 
+height: 50%; 
+left: 66%; 
+top: 125%; 
+font-family: 'Rubik';  
 font-weight: 500; 
 font-size: 300px; 
-line-height: 356px; 
-display: flex; 
-align-items: center; 
-text-align: center; 
- 
 color: rgba(0, 0, 0, 0.6); 
- 
-transform: rotate(-90.08deg); 
+transform: rotate(-90deg); 
 } 
 .xx{ 
   position: absolute;  
-  width: 440px;  
-  height: 3px;  
-  left: 60px; 
-  top: 500px;  
+  width: 25%;  
+  height: 3%;  
+  left: 10%; 
+  top: 150%;  
   color: blue;  
  
   } 
-  .cc{ 
-    color:rgb(0, 255, 0); 
-    width: 30px; 
-    height: 30px; 
-    margin-left: 700px; 
-    margin-top: 800px; 
-    background-color: white; 
-    border-radius: 30%; 
-    } 
-    .cc a{ 
-      display: flex; 
-      justify-content: center; 
-      align-items: center; 
-    } 
-    .cc:hover{ 
-      background-color: red; 
-    }
