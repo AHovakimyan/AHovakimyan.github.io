@@ -1,0 +1,156 @@
+*{  
+  margin: 0;  
+  padding: 0;  
+}  
+ body{  
+position: absolute;  
+width: 80%;  
+height: 50%;    
+background: #001857;  
+}  
+.container {  
+  width: 100%;  
+  height: 100%;  
+  background-color: rgb(1, 14, 58);  
+position: fixed;  
+z-index: -2;  
+top: 0;  
+}  
+.dd{  
+position: absolute;  
+left: 180%;  
+top: 5% ; 
+}  
+.uu{  
+  position: absolute; 
+  left: 5%;  
+}  
+.ii{  
+  position: absolute;  
+  z-index: -1;  
+  left: 50%;  
+  top: 35vh; 
+  width: 150%; 
+  transform: rotate(5deg);  
+}  
+.qq{  
+position: absolute;  
+width: 100%;  
+height: 120%;  
+left: 23vh;  
+top: 15vh;  
+transform: rotate(20deg);  
+}  
+.pp{  
+  width: 100%;  
+  height: 3%;  
+  color: white;  
+}  
+.ww:hover{  
+  color: red;  
+}  
+.ee:hover{  
+  color: red;  
+}  
+.rr:hover{  
+  color: red;  
+}  
+.tt:hover{  
+  color: red;  
+}  
+.yy:hover{  
+  color: red;  
+}  
+.ww{  
+  position: relative;  
+  left: 20vh;
+  padding: 10px;  
+  float: left;  
+}  
+.ee{ 
+  position: relative;  
+  left: 20vh; 
+  padding: 10px;  
+  float: left;  
+}  
+.rr{ 
+  position: relative;  
+  left: 20vh; 
+  padding: 10px;  
+  float: left;  
+}  
+.tt{ 
+  position: relative;  
+  left: 20vh; 
+  padding: 10px;  
+  float: left;  
+}  
+.yy{ 
+  position: relative;  
+  left: 20vh; 
+  padding: 10px;  
+  float: left;  
+  display: none;
+}  
+.kk{ 
+position: absolute;  
+width: 20%;  
+height: 40%;  
+top: 62%;  
+color: white;  
+font-size: 20px;  
+}  
+.ll{  
+  position: absolute;  
+width: 20%;  
+height: 50%;  
+top: 76%;  
+color: white;  
+font-size: 20px;  
+}  
+.jj{  
+  position: absolute;  
+  width: 20%;  
+  height: 40%;  
+  top: 90%;  
+  color: white;  
+  font-size: 20px;  
+  } 
+.hh{ 
+  margin:3%; 
+} 
+.vv{ 
+position: absolute; 
+width: 60%; 
+height: 180%; 
+left: 47vh; 
+top: 0vh; 
+} 
+.bb{ 
+  position: absolute; 
+  width: 25%; 
+  height: 41%; 
+  left: -1px; 
+  top: 60%; 
+} 
+.zz{ 
+  position: absolute; 
+width: 70%; 
+height: 50%; 
+left: 166%; 
+top: 100%; 
+font-family: 'Rubik';  
+font-weight: 500; 
+font-size: 190px; 
+color: rgba(0, 0, 0, 0.6); 
+transform: rotate(-90deg); 
+} 
+.xx{ 
+  position: absolute;  
+  width: 25%;  
+  height: 3%;  
+  left: 10%; 
+  top: 150%;  
+  color: blue;  
+ 
+  } 
